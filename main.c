@@ -51,8 +51,5 @@ int main()
             printf("Nome MES: %s\n",Funcionario[i].nome);
 
     }
-
-
-
     return 0;
 }
